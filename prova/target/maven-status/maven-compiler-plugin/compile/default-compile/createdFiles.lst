@@ -1,0 +1,13 @@
+br\com\prova\model\Prioridade.class
+br\com\prova\dao\SolicitacaoDao.class
+br\com\prova\model\Solicitacao.class
+br\com\prova\config\SpringMvcConfig.class
+br\com\prova\dao\SolicitacaoDaoImpl.class
+br\com\prova\model\StatusSolicitacao.class
+br\com\prova\model\TipoSolicitacao.class
+br\com\prova\controller\SolicitacaoController.class
+br\com\prova\model\Cliente.class
+br\com\prova\controller\WelcomeController.class
+br\com\prova\config\SpringInitConfig.class
+br\com\prova\config\RootConfig.class
+br\com\prova\App.class
